@@ -1,0 +1,12 @@
+{
+  "name": "my-app-tienda",
+  "version": "1.0.0",
+  "description": "Tienda Online Restaurante",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Tienda Restaurante","javaScript","Css","HTML"],
+  "author": "<luisramirez27.133@gmail.com>",
+  "license": "ISC"
+}
